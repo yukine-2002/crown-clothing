@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 13px;
+}
+body{
+  padding: 20px 60px;
+  font-size: 13px;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
